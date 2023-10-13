@@ -34,7 +34,7 @@ You can take the reference from below example and structure your information sim
     },
     {
       "id" :  2,
-      "platform" : "coursera",
+      "platform" : "Skillshare",
       "free_course" : "yes",
       "course_name" : "Basic C",
       "link" : "https://skillshare.com/Basic-C",
