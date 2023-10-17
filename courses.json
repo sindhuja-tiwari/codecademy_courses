@@ -28,5 +28,15 @@
     "difficulty" : "beginner",
     "module_number" : 3,
     "certification" : "paid"
+  },
+     {
+    "id" :  4,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Learn HTML",
+    "link" : "https://www.codecademy.com/learn/learn-html",
+    "difficulty" : "beginner",
+    "module_number" : 8,
+    "certification" : "paid"
   }
 ]
