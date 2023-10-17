@@ -1,22 +1,22 @@
 [
   {
     "id" :  1,
-      "platform" : "codecademy",
-      "free_course" : "yes",
-      "course_name" : "Learn HTML",
-      "link" : "https://www.codecademy.com/learn/learn-html",
-      "difficulty" : "beginner",
-      "module_number" : 6,
-      "certification" : "paid"
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Learn HTML",
+    "link" : "https://www.codecademy.com/learn/learn-html",
+    "difficulty" : "beginner",
+    "module_number" : 6,
+    "certification" : "paid"
   },
   {
     "id" :  2,
-      "platform" : "codecademy",
-      "free_course" : "yes",
-      "course_name" : "Learn Intermediate CSS",
-      "link" : "https://www.codecademy.com/learn/learn-intermediate-css",
-      "difficulty" : "intermediate",
-      "module_number" : 10,
-      "certification" : "paid"
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Learn Intermediate CSS",
+    "link" : "https://www.codecademy.com/learn/learn-intermediate-css",
+    "difficulty" : "intermediate",
+    "module_number" : 10,
+    "certification" : "paid"
   }
 ]
