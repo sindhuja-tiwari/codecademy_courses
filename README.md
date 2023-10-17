@@ -1,4 +1,4 @@
-# Codeacademy Courses
+# Codecademy Courses
 
 <img width="1181" alt="194501785-3c44b7e3-26cc-4f17-a819-93bd972e54b6" src="https://github.com/gdsc-bit/educative_courses/assets/116020663/bc8bc050-f13c-4741-bc39-56ba953d714d">
 
