@@ -1,4 +1,4 @@
-# Skillshare courses database
+# Codeacademy courses database
 This comprises of data on courses assisting a noesis on technical subjects
 
 ## Procedure :
@@ -24,22 +24,22 @@ You can take the reference from below example and structure your information sim
   [
     {
       "id" :  1,
-      "platform" : "Skillshare",
+      "platform" : "Codeacademy",
       "free_course" : "yes",
-      "course_name" : "Basic Python",
-      "link" : "https://skillshare.com/Basic-python",
+      "course_name" : "Learn HTML",
+      "link" : "https://www.codecademy.com/learn/learn-html",
       "difficulty" : "beginner",
       "module_number" : 6,
-      "certification" : "free"
+      "certification" : "paid"
     },
     {
       "id" :  2,
-      "platform" : "Skillshare",
+      "platform" : "Codeacademy",
       "free_course" : "yes",
-      "course_name" : "Basic C",
-      "link" : "https://skillshare.com/Basic-C",
-      "difficulty" : "beginner",
-      "module_number" : 7,
+      "course_name" : "Learn Intermediate CSS",
+      "link" : "https://www.codecademy.com/learn/learn-intermediate-css",
+      "difficulty" : "Intermediate",
+      "module_number" : 10,
       "certification" : "paid"
     }
   ]
