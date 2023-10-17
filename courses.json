@@ -18,5 +18,15 @@
     "difficulty" : "intermediate",
     "module_number" : 10,
     "certification" : "paid"
+  },
+  {
+    "id" :  3,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "How to Deploy a Website",
+    "link" : "https://www.codecademy.com/learn/deploy-a-website",
+    "difficulty" : "beginner",
+    "module_number" : 3,
+    "certification" : "paid"
   }
 ]
