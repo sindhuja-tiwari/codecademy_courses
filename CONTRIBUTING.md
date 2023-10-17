@@ -1,4 +1,4 @@
-# Codeacademy courses database
+# Codecademy Courses Database
 This comprises of data on courses assisting a noesis on technical subjects
 
 ## Procedure :
@@ -24,7 +24,7 @@ You can take the reference from below example and structure your information sim
   [
     {
       "id" :  1,
-      "platform" : "codeacademy",
+      "platform" : "codecademy",
       "free_course" : "yes",
       "course_name" : "Learn HTML",
       "link" : "https://www.codecademy.com/learn/learn-html",
@@ -34,7 +34,7 @@ You can take the reference from below example and structure your information sim
     },
     {
       "id" :  2,
-      "platform" : "Codeacademy",
+      "platform" : "codecademy",
       "free_course" : "yes",
       "course_name" : "Learn Intermediate CSS",
       "link" : "https://www.codecademy.com/learn/learn-intermediate-css",
