@@ -24,7 +24,7 @@ You can take the reference from below example and structure your information sim
   [
     {
       "id" :  1,
-      "platform" : "Codeacademy",
+      "platform" : "codeacademy",
       "free_course" : "yes",
       "course_name" : "Learn HTML",
       "link" : "https://www.codecademy.com/learn/learn-html",
@@ -38,7 +38,7 @@ You can take the reference from below example and structure your information sim
       "free_course" : "yes",
       "course_name" : "Learn Intermediate CSS",
       "link" : "https://www.codecademy.com/learn/learn-intermediate-css",
-      "difficulty" : "Intermediate",
+      "difficulty" : "intermediate",
       "module_number" : 10,
       "certification" : "paid"
     }
