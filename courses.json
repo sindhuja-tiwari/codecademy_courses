@@ -33,10 +33,10 @@
     "id" :  4,
     "platform" : "codecademy",
     "free_course" : "yes",
-    "course_name" : "Learn HTML",
-    "link" : "https://www.codecademy.com/learn/learn-html",
+    "course_name" : "Learn HTML: Forms",
+    "link" : "https://www.codecademy.com/learn/learn-html-forms",
     "difficulty" : "beginner",
-    "module_number" : 8,
+    "module_number" : 1,
     "certification" : "paid"
   }
 ]
