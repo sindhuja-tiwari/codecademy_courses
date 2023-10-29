@@ -38,5 +38,15 @@
     "difficulty" : "beginner",
     "module_number" : 1,
     "certification" : "paid"
+  },
+    {
+    "id" :  5,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Learn Lua",
+    "link" : "https://www.codecademy.com/learn/learn-lua",
+    "difficulty" : "beginner",
+    "module_number" : 5,
+    "certification" : "paid"
   }
 ]
